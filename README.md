@@ -9,6 +9,8 @@ http://activemq.apache.org/components/artemis/documentation/2.1.0/perf-tuning.ht
 
 
 https://activemq.apache.org/components/artemis/documentation/1.0.0/perf-tuning.html
+https://stackoverflow.com/questions/54822020/apache-activemq-artemis-slowdown
+
 
 
 
