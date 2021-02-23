@@ -7,3 +7,10 @@ http://activemq.apache.org/components/artemis/documentation/2.1.0/perf-tuning.ht
 /etc/  ... broker.xml
 
 
+
+https://activemq.apache.org/components/artemis/documentation/1.0.0/perf-tuning.html
+
+
+
+
+
